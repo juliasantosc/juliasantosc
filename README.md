@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Júlia Santos
+# 👋 Hi! I'm Júlia
 
 🎓 *Computer Science student*  
 💼 *Data Intern working with spreadsheets, SQL and automation*  
