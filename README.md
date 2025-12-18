@@ -9,7 +9,7 @@
 ## 🔧 Technologies & Tools
 - **Python** 
 - **Java**
-- **SQL** (queries, joins, insights)
+- **SQL** 
 - **Power BI**
 - **Excel & Google Sheets**
 - **Git & GitHub**
